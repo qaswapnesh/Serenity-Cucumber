@@ -1,0 +1,48 @@
+# Created at 2023-11-24T19:16:16.595
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19:16:'.
+
+# Created at 2023-11-24T19:16:16.598
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '16.585 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\DynaPar\eclipse-workspace\StudentApplication\serenity.properties'.
+
+# Created at 2023-11-24T19:16:16.635
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19:16:'.
+
+# Created at 2023-11-24T19:16:16.637
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '16.632 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\DynaPar\eclipse-workspace\StudentApplication\serenity.properties'.
+
+# Created at 2023-11-24T19:16:16.638
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19:16:'.
+
+# Created at 2023-11-24T19:16:16.640
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '16.635 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\DynaPar\eclipse-workspace\StudentApplication\serenity.properties'.
+
+# Created at 2023-11-24T19:16:16.650
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19:16:'.
+
+# Created at 2023-11-24T19:16:16.652
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '16.649 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - serenity.project.name=StudentApplication'.
+
+# Created at 2023-11-24T19:16:16.771
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19:16:'.
+
+# Created at 2023-11-24T19:16:16.774
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '16.770 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\DynaPar\eclipse-workspace\StudentApplication\serenity.properties'.
+
+# Created at 2023-11-24T19:16:16.785
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19:16:'.
+
+# Created at 2023-11-24T19:16:16.787
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '16.783 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\DynaPar\eclipse-workspace\StudentApplication\serenity.properties'.
+
+# Created at 2023-11-24T19:16:16.790
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19:16:'.
+
+# Created at 2023-11-24T19:16:16.791
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '16.785 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\DynaPar\eclipse-workspace\StudentApplication\serenity.properties'.
+
+# Created at 2023-11-24T19:16:16.794
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '19:16:'.
+
+# Created at 2023-11-24T19:16:16.796
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '16.787 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - serenity.project.name=StudentApplication'.
+

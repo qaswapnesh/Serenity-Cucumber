@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Testing different Requests on the Student Application" skipped="0" tests="3" time="5.7" timestamp="2023-11-24 07:16:20"><testcase name="Check if the Student Application can be accessed by the user"/><testcase name="Create a new student and verify if the student is added"/></testsuite>
